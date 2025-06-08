@@ -229,7 +229,7 @@
     
     <footer>
         <p>&copy; 2025 Ashmy Philo Joji | kanjirappally, Kottayam , Kerala</p>
-    </<ul>
+    
 <li>LinkedIn: <a href=https://www.linkedin.com/in/ashmy-philo-joji-b966a7326?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app>LinkedIn</a> </li>
 </footer>
     
